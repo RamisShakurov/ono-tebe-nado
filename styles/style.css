@@ -1,5 +1,5 @@
 /* header */
-*{
+* {
   scroll-behavior: smooth;
 }
 
@@ -15,7 +15,6 @@ address {
   color: inherit; /* Наследуем цвет текста */
   font-weight: normal; /* Стандартная жирность */
   font-size: inherit; /* Наследуем размер шрифта от родителя */
-  font-style: normal; /* Убираем курсив */
   font-style: normal; /* Убираем курсив */
 }
 
